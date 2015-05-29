@@ -1,6 +1,6 @@
 ---
 title: Search Engine Optimization
-image_path: ""
+image_path: /img/icons/cpu-64.png
 ---
 
 What of it
